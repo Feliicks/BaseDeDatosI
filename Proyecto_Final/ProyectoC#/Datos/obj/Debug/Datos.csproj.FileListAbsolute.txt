@@ -1,0 +1,38 @@
+C:\Users\Félix Sarmiento\source\repos\Login\Datos\bin\Debug\Datos.dll
+C:\Users\Félix Sarmiento\source\repos\Login\Datos\bin\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\source\repos\Login\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\source\repos\Login\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\source\repos\Login\Datos\obj\Debug\Datos.dll
+C:\Users\Félix Sarmiento\source\repos\Login\Datos\obj\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\source\repos\Login\Datos\bin\Debug\Datos.dll.config
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Datos\bin\Debug\Datos.dll.config
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Datos\bin\Debug\Datos.dll
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Datos\bin\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Datos\obj\Debug\Datos.dll
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Datos\obj\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Datos\bin\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Datos\bin\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Datos\bin\Debug\Datos.dll.config
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Datos\bin\Debug\Datos.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Datos\bin\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Datos\bin\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Datos\bin\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Datos\obj\Debug\Datos.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Datos\obj\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Datos\bin\Debug\Datos.dll.config
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Datos\bin\Debug\Datos.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Datos\bin\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Datos\bin\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Datos\bin\Debug\MaterialSkin.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Datos\bin\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Datos\obj\Debug\Datos.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Datos\obj\Debug\Datos.pdb

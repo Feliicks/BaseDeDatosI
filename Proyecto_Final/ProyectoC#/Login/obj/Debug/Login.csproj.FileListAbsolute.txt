@@ -1,0 +1,85 @@
+C:\Users\Félix Sarmiento\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Félix Sarmiento\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\Félix Sarmiento\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\Félix Sarmiento\source\repos\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\source\repos\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Félix Sarmiento\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Félix Sarmiento\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Félix Sarmiento\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\Félix Sarmiento\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\Félix Sarmiento\source\repos\Login\Login\bin\Debug\Negocios.dll
+C:\Users\Félix Sarmiento\source\repos\Login\Login\bin\Debug\Datos.dll
+C:\Users\Félix Sarmiento\source\repos\Login\Login\bin\Debug\Negocios.pdb
+C:\Users\Félix Sarmiento\source\repos\Login\Login\bin\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\source\repos\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Félix Sarmiento\source\repos\Login\Login\bin\Debug\Datos.dll.config
+C:\Users\Félix Sarmiento\source\repos\Login\Login\obj\Debug\Login.ventanaPrincipal.resources
+C:\Users\Félix Sarmiento\source\repos\Login\Login\obj\Debug\Login.controlUsers.resources
+C:\Users\Félix Sarmiento\source\repos\Login\Login\obj\Debug\Login.Inventario.resources
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\bin\Debug\Login.exe.config
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\bin\Debug\Login.exe
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\bin\Debug\Login.pdb
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\bin\Debug\Negocios.dll
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\bin\Debug\Datos.dll
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\bin\Debug\Negocios.pdb
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\bin\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\bin\Debug\Datos.dll.config
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\obj\Debug\Login.controlUsers.resources
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\obj\Debug\Login.Form1.resources
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\obj\Debug\Login.Inventario.resources
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\obj\Debug\Login.ventanaPrincipal.resources
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\obj\Debug\Login.exe
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\obj\Debug\Login.pdb
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\bin\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Login\bin\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\bin\Debug\Login.exe.config
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\bin\Debug\Login.exe
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\bin\Debug\Login.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\bin\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\bin\Debug\Negocios.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\bin\Debug\Datos.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\bin\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\bin\Debug\Negocios.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\bin\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\bin\Debug\Datos.dll.config
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\obj\Debug\Login.controlUsers.resources
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\obj\Debug\Login.Form1.resources
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\obj\Debug\Login.Inventario.resources
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\obj\Debug\Login.ventanaPrincipal.resources
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\obj\Debug\Login.exe
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Login\obj\Debug\Login.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\bin\Debug\Login.exe.config
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\bin\Debug\Login.exe
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\bin\Debug\Login.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\bin\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\bin\Debug\MaterialSkin.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\bin\Debug\Negocios.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\bin\Debug\Datos.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\bin\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\bin\Debug\Negocios.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\bin\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\bin\Debug\Datos.dll.config
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.controlUsers.resources
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.Form1.resources
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.Inventario.resources
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.ventanaPrincipal.resources
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.exe
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.RegCliente.resources
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Login\obj\Debug\Login.Cliente.resources

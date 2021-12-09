@@ -1,0 +1,20 @@
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Entidades\bin\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Entidades\obj\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Entidades\bin\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Entidades\obj\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Entidades\bin\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Entidades\bin\Debug\MaterialSkin.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Entidades\obj\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Entidades\obj\Debug\Entidades.pdb

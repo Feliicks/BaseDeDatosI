@@ -1,0 +1,47 @@
+C:\Users\Félix Sarmiento\source\repos\Login\Negocios\bin\Debug\Negocios.dll
+C:\Users\Félix Sarmiento\source\repos\Login\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Félix Sarmiento\source\repos\Login\Negocios\bin\Debug\Datos.dll
+C:\Users\Félix Sarmiento\source\repos\Login\Negocios\bin\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\source\repos\Login\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\source\repos\Login\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\source\repos\Login\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Félix Sarmiento\source\repos\Login\Negocios\obj\Debug\Negocios.dll
+C:\Users\Félix Sarmiento\source\repos\Login\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Félix Sarmiento\source\repos\Login\Negocios\bin\Debug\Datos.dll.config
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Negocios\bin\Debug\Negocios.dll
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Negocios\bin\Debug\Datos.dll
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Negocios\bin\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Negocios\bin\Debug\Datos.dll.config
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Negocios\obj\Debug\Negocios.dll
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Negocios\bin\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\source\repos\ProCambioTabla\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Negocios\bin\Debug\Negocios.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Negocios\bin\Debug\Datos.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Negocios\bin\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Negocios\bin\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Negocios\bin\Debug\Datos.dll.config
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Negocios\obj\Debug\Negocios.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\NuevoDiseño\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\bin\Debug\Negocios.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\bin\Debug\Datos.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\bin\Debug\Entidades.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\bin\Debug\MaterialSkin.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\bin\Debug\Datos.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\bin\Debug\Datos.dll.config
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\obj\Debug\Negocios.dll
+C:\Users\Félix Sarmiento\Desktop\Design\NewDesign\Cambio Matrial Design\Negocios\obj\Debug\Negocios.pdb
